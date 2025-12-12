@@ -102,12 +102,5 @@ The entire workflow, from data loading to real-time execution, is contained with
 3.  **Real-Time Demo:** The final cell will load the saved model (`new_model.h5`), initialize your camera, and display the live emotion detection feed.
       * Press `q` or `ESC` to exit the camera feed.
 
------
-
-### 🛣 Future Work
-
-  * Expand classification to include 7 core emotions (Angry, Disgust, Fear, Happy, Sad, Surprise, Neutral) using the FER-2013 dataset.
-  * Implement Transfer Learning (e.g., MobileNetV2) for higher performance and smaller model size.
-  * Optimize the real-time pipeline using multithreading for smoother video processing.
 
 
