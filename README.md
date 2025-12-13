@@ -86,7 +86,7 @@ This project requires a dataset of Happy and Sad facial images, organized in sub
 
 The model was trained on a dataset similar to the one available on Kaggle:
 
-  * [Happy and Sad Image dataset for CNN - Kaggle](https://www.kaggle.com/datasets/atharvadarpude/happy-and-sad-image-dataset-for-cnn)
+  * [Happy and Sad Image dataset for CNN - Kaggle](https://www.kaggle.com/datasets/saharnazyaghoobpoor/happy-and-sad-image)
 
 -----
 
